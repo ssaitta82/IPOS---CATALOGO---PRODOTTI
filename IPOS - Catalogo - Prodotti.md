@@ -1,10 +1,10 @@
 # IPOS
 
-***<u>CATALOGO</u>***
+***CATALOGO***
 
 ## ***PRODOTTI:***
 
-- **<u>RICERCARE ARTICOLI:</u>**
+- **RICERCARE ARTICOLI:**
 
 Nel Catalogo dei prodotti di IPOS vi è racchiusa l’intera anagrafica
 degli articoli del cliente. In questo menu si potranno cercare i
@@ -27,8 +27,8 @@ categoria “Pantalone”, basterà scrivere nell’intestazione della colonna
 nominata <span class="mark">“Sottofamiglia</span>”, il nome o parte
 dello stesso.
 
-<img src="./media/image1.png"
-style="width:6.69306in;height:3.38611in" />
+![image1](https://github.com/ssaitta82/IPOS---CATALOGO---PRODOTTI/assets/166375916/957704e9-a1df-41c5-acd9-4f11d3e29383)
+
 
 Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri
 situati sulla sinistra si procede nel seguente modo:
@@ -60,37 +60,37 @@ specifiche personalizzate a suo piacimento. (FIG. 3)
 Per espandere il sottomenu “Altri Filtri” premere sulla freccetta a
 destra della scritta. (FIG. 4)
 
-<u>FIG. 1</u>
+FIG. 1
 
-<img src="./media/image2.png"
-style="width:6.69306in;height:3.42153in" />
+![image2](https://github.com/ssaitta82/IPOS---CATALOGO---PRODOTTI/assets/166375916/5a4fb3ee-b951-463c-862c-e3677873babd)
+
 
 **1**
 
-<u>FIG. 2</u>
+FIG. 2
 
-<img src="./media/image3.png"
-style="width:6.69306in;height:3.28958in" />
+![image3](https://github.com/ssaitta82/IPOS---CATALOGO---PRODOTTI/assets/166375916/2f28aa30-2383-4b7d-96ed-d46da0ff2d11)
+
 
 **3**
 
 **2**
 
-<u>FIG. 3</u>
+FIG. 3
 
-<img src="./media/image4.png"
-style="width:6.69306in;height:1.52431in" />
+![image4](https://github.com/ssaitta82/IPOS---CATALOGO---PRODOTTI/assets/166375916/833f23b8-31ef-4eb6-97b9-b35e03156940)
+
 
 **4**
 
-<u>FIG. 4</u>
+FIG. 4
 
 **5**
 
-<img src="./media/image5.png"
-style="width:6.69306in;height:2.10556in" />
+![image5](https://github.com/ssaitta82/IPOS---CATALOGO---PRODOTTI/assets/166375916/fab4d451-3429-44ee-a6d8-4521b3659ddc)
 
-- **<u>AGGIUNGERE NUOVI ARTICOLI:</u>**
+
+- **AGGIUNGERE NUOVI ARTICOLI:**
 
 Per aggiungere dei nuovi articoli IPOS rende disponibili due metodi:
 
@@ -99,7 +99,7 @@ Per aggiungere dei nuovi articoli IPOS rende disponibili due metodi:
 
 **1**
 
-Selezionare l’<u>Icona</u> contraddistinta dal simbolo “+”
+Selezionare l’Icona contraddistinta dal simbolo “+”
 
 <img src="./media/image6.png" style="width:3.1875in;height:0.31736in" />
 
